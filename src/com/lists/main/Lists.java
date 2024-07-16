@@ -2,7 +2,7 @@ package com.lists.main;
 
 import java.util.ArrayList;
 
-public class Lists {
+public class ArrayListFunctionality {
 	// Main method to run program 
 	public static void main (String [] str) {
 		
